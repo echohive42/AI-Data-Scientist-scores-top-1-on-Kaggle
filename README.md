@@ -20,11 +20,12 @@ This system automates the entire machine learning workflow by:
 ## 🎥 Watch How It's Built!
 
 **[Watch the complete build process on Patreon](https://www.patreon.com/posts/how-to-build-o1-112197565?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)**
+See exactly how this automation system was created step by step, with detailed explanations and insights into the development process.
 
 ![image](https://github.com/user-attachments/assets/05b8fe56-5cc8-4917-b8d2-257060a6f44b)
 
 
-See exactly how this automation system was created step by step, with detailed explanations and insights into the development process.
+
 
 ## ❤️ Support & Get 400+ AI Projects
 
