@@ -1,0 +1,22 @@
+openai
+anthropic
+pandas
+numpy
+termcolor
+
+# Optional ML libraries depending on generated code:
+# scikit-learn     # For traditional ML algorithms
+# torch           # For deep learning and GPU support
+# tensorflow      # Alternative deep learning framework
+# xgboost        # For gradient boosting
+# lightgbm       # Light gradient boosting
+# catboost       # Categorical boosting
+# keras          # High-level neural networks
+# transformers   # For transformer models
+# pytorch-lightning  # PyTorch training framework
+# optuna         # Hyperparameter optimization
+# shap           # For model interpretability
+# matplotlib     # For plotting
+# seaborn        # Statistical visualization
+# joblib         # Parallel processing
+# tqdm           # Progress bars 
