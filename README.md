@@ -11,12 +11,18 @@ This system automates the entire machine learning workflow by:
 3. Optimizing performance when needed
 4. Tracking progress and improvements across iterations
 5. Managing solution versions and submissions
+6. NOTE: includes datasets for Spceship Titanic Kaggle challenge: https://www.kaggle.com/competitions/spaceship-titanic/overview
+
+🏆 **Proven Performance**: This AI Data Scientist achieved remarkable success on Kaggle's Spaceship Titanic challenge, ranking 29th out of 2,400+ solutions (top 1%)! 🚀 The system autonomously developed, optimized, and fine-tuned its solution to reach this exceptional performance level. 🌟
 
 ⚠️ **IMPORTANT SECURITY WARNING**: This system automatically executes AI-generated code. running any auto-generated code carries inherent risks. Use with caution and creator is not responsible for code outputs and code execution!
 
 ## 🎥 Watch How It's Built!
 
 **[Watch the complete build process on Patreon](https://www.patreon.com/posts/how-to-build-o1-112197565?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)**
+
+![image](https://github.com/user-attachments/assets/05b8fe56-5cc8-4917-b8d2-257060a6f44b)
+
 
 See exactly how this automation system was created step by step, with detailed explanations and insights into the development process.
 
