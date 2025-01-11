@@ -13,7 +13,7 @@ from datetime import datetime
 # Constants
 ITERATIONS = 50
 CLAUDE_MODEL = "claude-3-5-sonnet-20241022"
-O1_MODEL = "o1"
+O1_MODEL = "o1-mini"
 MAX_RUNTIME_MINUTES = 30  # Maximum runtime in minutes
 
 print(colored("Phase 1: Setting up API Clients", "cyan"))
